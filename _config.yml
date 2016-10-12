@@ -7,7 +7,7 @@ title: alanban
 subtitle: blog
 description: cooding...
 author: alanban
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,10 +63,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+#       type: git
+#       message: update
+#       repo: git@bansen.cc:hexo.git
+#       branch: master
 deploy:
       type: git
       message: update
