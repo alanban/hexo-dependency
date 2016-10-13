@@ -35,7 +35,7 @@ categories:
 + 搭建shadowsocks
 + 搭建hexo博客环境
 + 配置git实现更新博客
-
+<!-- more -->
 #### hexo
 
 一套运行在node.js上的程序，生成静态HTML，拥有大量的主题可供选择
